@@ -1,5 +1,7 @@
 {
-  "github_reports": {},
+  "github_reports": {
+    "validation_issue_5.html": "https://arcangelo7.github.io/crowdsourcing/validation_reports/validation_issue_5.html"
+  },
   "zenodo_reports": {
     "validation_issue_3.html": {
       "url": "https://sandbox.zenodo.org/api/records/161409/files/validation_issue_3.html/content",
