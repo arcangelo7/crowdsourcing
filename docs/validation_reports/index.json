@@ -1,9 +1,5 @@
 {
-  "github_reports": {
-    "validation_issue_5.html": "https://arcangelo7.github.io/crowdsourcing/validation_reports/validation_issue_5.html",
-    "validation_issue_7.html": "https://arcangelo7.github.io/crowdsourcing/validation_reports/validation_issue_7.html",
-    "validation_issue_6.html": "https://arcangelo7.github.io/crowdsourcing/validation_reports/validation_issue_6.html"
-  },
+  "github_reports": {},
   "zenodo_reports": {
     "validation_issue_3.html": {
       "url": "https://sandbox.zenodo.org/api/records/161409/files/validation_issue_3.html/content",
@@ -12,7 +8,19 @@
     "validation_issue_4.html": {
       "url": "https://sandbox.zenodo.org/api/records/161409/files/validation_issue_4.html/content",
       "doi": "https://doi.org/10.5072/zenodo.161409"
+    },
+    "validation_issue_5.html": {
+      "url": "https://sandbox.zenodo.org/api/records/161907/files/validation_issue_5.html/content",
+      "doi": "https://doi.org/10.5072/zenodo.161907"
+    },
+    "validation_issue_7.html": {
+      "url": "https://sandbox.zenodo.org/api/records/161907/files/validation_issue_7.html/content",
+      "doi": "https://doi.org/10.5072/zenodo.161907"
+    },
+    "validation_issue_6.html": {
+      "url": "https://sandbox.zenodo.org/api/records/161907/files/validation_issue_6.html/content",
+      "doi": "https://doi.org/10.5072/zenodo.161907"
     }
   },
-  "last_archive": "2025-02-01T17:27:55.547237"
+  "last_archive": "2025-02-04T08:39:17.010960"
 }
